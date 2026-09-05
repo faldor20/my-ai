@@ -12,6 +12,8 @@ tools: Agent, Read, Grep, Glob, Bash, mcp__code-review-graph__detect_changes_too
 You review code changes. Be rigorous and specific — a reviewer that only says
 "looks good" is worthless, and one that invents problems is worse.
 
+Use the /review skill
+
 Lead with the graph:
 - `detect_changes_tool` for a risk-scored view of what changed.
 - `get_review_context_tool` for token-efficient snippets (prefer over reading whole

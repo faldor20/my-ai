@@ -1,5 +1,5 @@
 ---
-name: implementation- plans
+name: implementation-plans
 description: A guide to writing quality implementation plans for coding tasks. 
 ---
 
@@ -15,9 +15,9 @@ It should cover:
 
 Remember, when we implement our code we should scan the codebase to see if similar code already exists, and if it does we should reuse it instead of writing new code. This is a key part of writing good implementation plans. The initial plan covered the features, but this is the step where we have to make sure this code is well integrated with the existing codebase, and that we are not writing new code that is already implemented somewhere else.
 
-All of that said, we shouldn't intruduce excessive complexity just to reuse code. If the existing code is not a good fit for our use case. If making the code reusable actually makes everything much more complex then duplication is preferable.
+All of that said, we shouldn't introduce excessive complexity just to reuse code. If the existing code is not a good fit for our use case. If making the code reusable actually makes everything much more complex then duplication is preferable.
 
-Implementaion plans should not include ambiguity or open questions. If there are any, they should be resolved before writing the implementation plan. Feel free to stop and ask the user for important decisions where there isn't a clear best choice. It's better to have a clear plan that we can execute than a vague plan that we have to figure out as we go.
+Implementation plans should not include ambiguity or open questions. If there are any, they should be resolved before writing the implementation plan. Feel free to stop and ask the user for important decisions where there isn't a clear best choice. It's better to have a clear plan that we can execute than a vague plan that we have to figure out as we go.
 
 
 your writing should be clear and concise. Do not be verbose or use flowery language, get to the point and be direct. 
